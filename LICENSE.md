@@ -1,8 +1,5 @@
 
 ## `LICENSE`
-
-Если выбираете MIT, создай в GitHub файл **`LICENSE`** и вставь:
-
 ```text
 MIT License
 
