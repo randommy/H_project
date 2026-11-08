@@ -8,7 +8,7 @@ Instead of simply telling a student "you should become X", PATHFINDER explores m
 
 ---
 
-## 🚀 What PATHFINDER Does
+##  What PATHFINDER Does
 
 PATHFINDER guides a student through a short scenario-based assessment and generates a personalized career and education profile.
 
